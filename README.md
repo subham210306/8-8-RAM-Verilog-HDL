@@ -40,7 +40,7 @@ Therefore, a **3-bit address** is sufficient to select any of the 8 locations.
 
 The address range is:
 
-```text
+
 000 → Location 0
 001 → Location 1
 010 → Location 2
